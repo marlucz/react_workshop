@@ -1,0 +1,21 @@
+{
+    "contacts": [{
+        "id": 0,
+        "name": "Minnie Berry",
+        "phone": 137335228,
+        "mail": "minnie.berry50@example.com",
+        "address": "4819 Eighth St"
+    }, {
+        "id": 1,
+        "name": "Another Name",
+        "phone": 123456789,
+        "mail": "anothername50@example.com",
+        "address": "4819 Eighth St"
+    }, {
+        "id": 2,
+        "name": "Other Name",
+        "phone": 987456321,
+        "mail": "othername50@example.com",
+        "address": "4819 Eighth St"
+    }]
+}
